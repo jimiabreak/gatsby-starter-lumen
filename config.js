@@ -27,12 +27,12 @@ module.exports = {
   author: {
     name: 'Jimi Filipovski',
     photo: '/photo.jpg',
-    bio: 'Hi, I'm Jimi, a designer and writer living in Detroit.' ,
+    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: 'jimifilipovski@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: 'jimiabreak',
+      twitter: 'https://twitter.com/jimifilipovski',
+      github: 'https://github.com/jimiabreak',
       rss: '#',
       // vkontakte: '#'
     }
