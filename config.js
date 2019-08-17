@@ -3,9 +3,9 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Jimi Filipovski',
+  subtitle: 'Writing on creativity, productvity, and life.',
+  copyright: '© 2019 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -25,16 +25,16 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Jimi Filipovski',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Hi, I'm Jimi, a designer and writer living in Detroit. I'm the author of this blog. ,
     contacts: {
-      email: '#',
+      email: 'jimifilipovski@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'jimiabreak',
       rss: '#',
-      vkontakte: '#'
+      // vkontakte: '#'
     }
   }
 };
