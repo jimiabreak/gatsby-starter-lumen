@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://github.com/jimiabreak/gatsby-starter-lumen/',
   pathPrefix: '/',
   title: 'Jimi Filipovski',
   subtitle: 'Writing on creativity, productvity, and life.',
